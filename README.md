@@ -12,7 +12,7 @@ This is an implementation of [$BPC](https://explorer.solana.com/address/bpcVhtA3
 
 ### Details & Metadata
 
-Total supply: 1 million
+Total supply: 1 million tokens
 
 Mint authority: keyveoq8SHcKAe2E26Jv12CfXBAa78LKMVS1HiUv9C8
 
